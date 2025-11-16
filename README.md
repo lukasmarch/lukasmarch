@@ -4,9 +4,9 @@ I’m Lukasz and I’m interested in all things **data, machine learning and AI 
 I’m currently transitioning from 15+ years of running my own stone manufacturing business into **Data Science / ML / LLMs**.
 
 I enjoy solving real business problems with data, building practical ML pipelines and experimenting with AI agents.  
-Outside of code, I develop my stone studio business (lumargo.pl) and run an FPV drone & filmmaking brand (studiofilmowania.pl).
+Outside of code, I develop my stone studio business [lumargo.pl](https://lumargo.pl) and run an FPV drone & filmmaking brand [studiofilmowania.pl](https://studiofilmowania.pl).
 
-Check out my [Portfolio](https://lukasmarch.github.io/) and projects to see how I combine **business experience** with **modern data & AI tools**.
+Check out my [portfolio](https://lukasmarch.github.io/) and projects to see how I combine **business experience** with **modern data & AI tools**.
 
 ## My GitHub Stats
 
