@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! Welcome to my GitHub profile! 👋
 
-<!--
-**lukasmarch/lukasmarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Lukasz and I’m interested in all things **data, machine learning and AI systems**.  
+I’m currently transitioning from 15+ years of running my own stone manufacturing business into **Data Science / ML / LLMs**.
 
-Here are some ideas to get you started:
+I enjoy solving real business problems with data, building practical ML pipelines and experimenting with AI agents.  
+Outside of code, I develop my stone studio business (lumargo.pl) and run an FPV drone & filmmaking brand (studiofilmowania.pl).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my portfolio and projects to see how I combine **business experience** with **modern data & AI tools**.
+
+## My GitHub Stats
+
+[![Lukasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasmarch&show_icons=true&line_height=27&theme=github_dark)](https://github.com/lukasmarch)
+
